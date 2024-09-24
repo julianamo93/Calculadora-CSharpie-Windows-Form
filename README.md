@@ -1,9 +1,9 @@
 ### CheckPoint 01 - Advanced Business Development With .NET
 
-## - RM:554113 - Juliana Moreira da Silva
-## RM:552590 - Kevin Christian Nobre
-## RM:553771 - Lucas Emanuel Basto
-## RM:552728 - Sabrina do Couto Xavier Lima
+- **RM:554113 - Juliana Moreira da Silva**
+- **RM:552590 - Kevin Christian Nobre**
+- **RM:553771 - Lucas Emanuel Basto**
+- **RM:552728 - Sabrina do Couto Xavier Lima**
 
 ### Calculadora criada com Windows Form App
 - A calculadora da nossa solução foi criada com operações básicas em C#, com Windows Form App.
